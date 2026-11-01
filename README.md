@@ -62,4 +62,4 @@ GitHub: [@pushpabalabhadra](https://github.com/pushpabalabhadra)
 
 ---
 
-⭐ If you find this project useful, consider giving this repository a star!
+
